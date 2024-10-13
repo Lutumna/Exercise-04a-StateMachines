@@ -1,7 +1,7 @@
 # Exercise04a-StateMachines
 
 ## Implementation
-Which features you included.
+Idle, walk, and jump animations
 
 ## References
 
@@ -10,6 +10,10 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Project 4
 
 ## Created by
-Nathan Mishler
+Daniyaal Hussain
+
+## Username
+Lutumna
